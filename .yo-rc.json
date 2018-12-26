@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MzM2OGYwMjMyMjBmYzRhNmM0YjFmYjViMDQzNGM3YjhjYjg0N2JkNTA1NTUzNGQ5NmY2ZDBiYmZkYmUyNmJlYmJhZTQ2MTI0NmQyYzM3NDcwYTcyOGZmODBkOWQ4YjljMGE1NjE3NmU5ZjQ3YjA4NjJkNmU0MmJhZWEwY2M5MTA=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "OmarRamonMontes",
+  "repository-name": "jhipster-sample-application"
+}
